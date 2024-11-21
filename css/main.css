@@ -32,11 +32,6 @@
     color: #F38181;
 }
 
-.photo{
-    margin-top: 77px;
-
-
-}
 
 .photo-text{
     color: #333;
@@ -51,14 +46,17 @@ margin-bottom: 100px;
 
 }
 
-.photo-item{
+
+
+
+.job{
+    display: flex;
+    flex-wrap: wrap;
     margin-left: 86px;
     margin-bottom: 92px;
 }
 
-.photo{
-    display: flex;  
-}
+
 
 .who-item{
     text-align: center;
